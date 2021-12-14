@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpandableText</string>
+
+    <string name="show_less"><i>Show Less</i></string>
+</resources>
